@@ -1,0 +1,12 @@
+# vscode IDE
+.vscode/
+
+# Node.js
+node_modules/
+
+#folder
+dist/
+
+#file
+yarn.lock
+yarn-error.log

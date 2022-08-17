@@ -1,0 +1,12 @@
+html {
+    text-align: center;
+}
+#index span {
+    color: blueviolet;
+}
+#main span {
+    color: green;
+}
+#home span {
+    color: red;
+}
